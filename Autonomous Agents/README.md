@@ -7,16 +7,17 @@ Three rules that model collective movement, by Craig Reynolds:
 - Alignment
 - Separation
 - Cohesion
-<insert gif>
+
+![](media/boids.gif)
 
 ### Flowfield
 Vector field applied as a force acting on vehicles.
 
 Could be used **with** Boids algorithm. Why not both? 
 
-<insert GIF>
+![](media/flowfield.gif)
 
 ### Seek-Arrive
-Simpler behavior.
+Simpler behavior than Boids.
 
 Agent heads towards a target location and slow down as it get closer, until it stops on target.
