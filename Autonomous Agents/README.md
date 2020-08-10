@@ -9,14 +9,14 @@ Three rules that model collective movement, by Craig Reynolds:
 - Cohesion
 
 ![](media/boids.gif)
-
+--------------------------------------
 ### Flowfield
 Vector field applied as a force acting on vehicles.
 
 Could be used **with** Boids algorithm. Why not both? 
 
 ![](media/flowfield.gif)
-
+--------------------------------------
 ### Seek-Arrive
 Simpler behavior than Boids.
 
