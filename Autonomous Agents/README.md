@@ -21,3 +21,5 @@ Could be used **with** Boids algorithm. Why not both?
 Simpler behavior than Boids.
 
 Agent heads towards a target location and slow down as it get closer, until it stops on target.
+
+![](media/seek.gif)
